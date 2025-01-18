@@ -1,0 +1,1 @@
+/home/helm/pruebahelm/ping/main.tf
